@@ -1,0 +1,8 @@
+-- UI Settings
+_G.edit_ui = false
+_G.UI_portait_image = 'rbxassetid://3157197640'
+_G.UI_health = "Leaked By rmg#3285"
+_G.UI_money = ""
+_G.UI_name = "dvixded.tk on top"
+_G.UI_xp = ""
+_G.UI_lvl = ""
